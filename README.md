@@ -32,3 +32,4 @@ This repository contains a Laravel 12 project with the following tables: users, 
 ```bash
 git clone https://github.com/ashna0204/Ecommerce-System.git
   cd Ecommerce-System
+  php artisan serve
